@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## !! IMPORTANT
+before executing the code run 
+### `npm ci`
+followed by
+### `npm start`
+to run the program
+
 ## Available Scripts
 
 In the project directory, you can run:
